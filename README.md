@@ -48,7 +48,7 @@
 </ul>
 
 ## Komponen Proyek
-<p>Komponen komponen yang kami gunakan sebagai berikut :/p>
+<p>Komponen komponen yang kami gunakan sebagai berikut :</p>
 <ul>
   <li>Record : digunakan untuk membuat struktur data yang merepresentasikan informasi film.</li>
   <li>Array : digunakan untuk menyimpan dan mengelola data film, dan kursi pada setiap film dan jam tayang.</li>
