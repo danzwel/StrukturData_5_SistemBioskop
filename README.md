@@ -19,7 +19,7 @@
 ## Judul Proyek
 <p>Sistem Bioskop</p>
 
-## Penjelasan Proyek
+## Penjelasan Proyek Boy
 <p>Jadi proyek yang kami kerjakan ini berisi dengan spesifikasi awal : </p>
 <ul>
   <li>Peserta</li>
