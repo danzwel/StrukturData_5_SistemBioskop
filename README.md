@@ -48,10 +48,22 @@
 </ul>
 
 ## Komponen Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Komponen komponen yang kami gunakan sebagai berikut :/p>
+<ul>
+  <li>Record : digunakan untuk membuat struktur data yang merepresentasikan informasi film.</li>
+  <li>Array : digunakan untuk menyimpan dan mengelola data film, dan kursi pada setiap film dan jam tayang.</li>
+  <li>Queue : digunakan untuk menyimpan informasi tiket setiap kali pengguna memilih kursi.</li>
+  <li>LinkedList : digunakan untuk implementasi struktur data antrian (Queue). </li>
+  <li>Searching : digunakan untuk menamplkan data kursi yang sudah maupun belum di pesan.</li>
+</ul>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Pembagian kerja kodigannya : </p>
+<ul>
+  <li>Daniel : Array kursi,Queue dan Linked List</li>
+  <li>Valent : Searching</li>
+  <li>Deniera : Record, Array film</li>
+</ul>
 
 ## Demo Proyek
 <ul>
