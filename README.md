@@ -10,7 +10,7 @@
   <li>Proyek: Bioskop</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua    : <a href="https://github.com/danzwel">Daniel Desmanto Nugraha</a></li>
+    <li>Ketua      : <a href="https://github.com/danzwel">Daniel Desmanto Nugraha</a></li>
     <li>Anggota 1: Benedictus Ellvalent Saputra</a></li>
     <li>Anggota 2: Deniera Rafiu Farras Hady</a></li>
   </ul>
