@@ -35,6 +35,11 @@
   <p>Dimenu ini menampilkan beberapa fitur : </p>
   <ul>
     <li>Menampilkan informasi mengenai film yang sedang tanyang</li>
+    <li>Menampilkan pemesanan tiket bioskop</li>
+    <li>Pemilihan kursi bioskop</li>
+    <li>Transaksi</li>
+    <li>Tiket</li>
+  </ul>
   <li>Pengecekan kursi kosong</li>
   <li>Keluar</li>
 </ul>
