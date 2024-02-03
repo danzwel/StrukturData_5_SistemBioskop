@@ -40,9 +40,11 @@
     <li>Transaksi</li>
     <li>Tiket</li>
   </ul>
+  <p></p>
   <li>Pengecekan kursi kosong</li>
   <p>Dimenu ini hanya menampilkan informasi kursi yang sudah maupun belum dipesan sesuai judul dan jam dari film</p>
   <li>Keluar</li>
+  <p>Jika memilih menu ini program akan berakhir</p>
 </ul>
 
 ## Komponen Proyek
