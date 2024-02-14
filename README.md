@@ -68,5 +68,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/danzwel/FinalProyekSturkturData-Bioskop-/tree/main/src/strukturdata_bioskop">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/YZYi9z92Aks?si=IyMdUvBChTdTULFf ">Youtube</a></li>
 </ul>
